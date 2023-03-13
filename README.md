@@ -1,9 +1,9 @@
 # Adversarial-Example-Defense-via-Perturbation-Grading-Strategy
 
 代码结构为F&DDefend------NoiseLevel模块
-                               |----FLIP+JPEG模块
-                               |----DIP模块
-                               |----ACC模块
+                        |----FLIP+JPEG模块
+                        |----DIP模块
+                        |----ACC模块
 
 
  1.NoiseLevel模块：含有NoiseLevel.m 和 main_NoiseLevel.m,通过调用 main_main_NoiseLevel.m,输入相应的对抗样本路径，可以输出相应的噪声等级。
